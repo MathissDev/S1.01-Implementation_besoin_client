@@ -57,7 +57,3 @@ git merge main
 Sur GitHub, cliquez sur **Compare & pull request**, décrivez ce que vous avez fait, puis **Create pull request**. Un autre membre relit et fusionne dans `main`.
 
 
-
----
-
-Si tu veux une version encore plus courte pour un message de groupe, ou la même chose avec les captures d'écran à ajouter, dis-le-moi.
